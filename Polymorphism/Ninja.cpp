@@ -9,5 +9,5 @@ Ninja::Ninja()
 }
 
 void Ninja::attack(){
-    cout << "Ninja!-" << endl;
+    cout << "Ninja!" << endl;
 }

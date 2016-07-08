@@ -10,6 +10,6 @@ Monster::Monster()
 
 void Monster::attack(){
 
-    cout << "Monster!-" << endl;
+    cout << "Monster!" << endl;
 
 }

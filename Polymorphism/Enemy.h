@@ -7,7 +7,9 @@ class Enemy
     public:
         Enemy();
         void setAttackPower(int a);
-        virtual void attack();
+        // Tells the compiler the function has no body.
+        // and must be overriden in the derived classes
+        virtual void attack() = 0;
 
     protected:
         int attackPower;
