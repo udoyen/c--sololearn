@@ -11,5 +11,6 @@ void Enemy::setAttackPower(int a){
 
 }
 
+// Here the virtual keyword is nor required to do the function inplementation
 void Enemy::attack(){
 }
