@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467999307 source:/home/george/codeblock-docs/Files/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
