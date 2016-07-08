@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1467977292 source:/home/george/codeblock-docs/Polymorphism/Enemy.cpp
+	"Enemy.h"
+
+1467978684 /home/george/codeblock-docs/Polymorphism/Enemy.h
+
+1467978779 source:/home/george/codeblock-docs/Polymorphism/main.cpp
+	<iostream>
+	"Enemy.h"
+	"Ninja.h"
+	"Monster.h"
+
+1467978684 source:/home/george/codeblock-docs/Polymorphism/Monster.cpp
+	<iostream>
+	"Monster.h"
+
+1467977638 /home/george/codeblock-docs/Polymorphism/Monster.h
+	<Enemy.h>
+
+1467978684 /home/george/codeblock-docs/Polymorphism//Enemy.h
+
+1467978684 source:/home/george/codeblock-docs/Polymorphism/Ninja.cpp
+	"Ninja.h"
+	<iostream>
+
+1467977564 /home/george/codeblock-docs/Polymorphism/Ninja.h
+	<Enemy.h>
+

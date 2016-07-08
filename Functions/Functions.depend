@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467894539 source:/home/george/codeblock-docs/Functions/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

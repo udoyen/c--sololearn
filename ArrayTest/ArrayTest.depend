@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1467974282 source:/home/george/codeblock-docs/ArrayTest/main.cpp
+	<iostream>
+	"MyClass.h"
+	"Birthday.h"
+	"Person.h"
+
+1467917249 source:/home/george/codeblock-docs/ArrayTest/MyClass.cpp
+	<iostream>
+	"MyClass.h"
+
+1467922857 /home/george/codeblock-docs/ArrayTest/MyClass.h
+
+1467927494 source:/home/george/codeblock-docs/ArrayTest/Birthday.cpp
+	<iostream>
+	"Birthday.h"
+
+1467926785 /home/george/codeblock-docs/ArrayTest/Birthday.h
+
+1467928312 source:/home/george/codeblock-docs/ArrayTest/Person.cpp
+	<iostream>
+	<string>
+	"Birthday.h"
+	"Person.h"
+
+1467974111 /home/george/codeblock-docs/ArrayTest/Person.h
+	"Birthday.h"
+
